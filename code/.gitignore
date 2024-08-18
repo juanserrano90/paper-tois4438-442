@@ -1,0 +1,11 @@
+*~
+*.dll
+*.7z
+*.zip
+*.tar
+*.com
+*.gz
+*.zip
+.ipynb_checkpoints
+*.save
+*.xc
