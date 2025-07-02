@@ -1,0 +1,4 @@
+sigma_lc_ = 1.448752
+rho_gp_ = 2.420957
+timescale = 0.545
+sigma_gp_ = 0.525470

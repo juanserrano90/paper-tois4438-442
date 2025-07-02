@@ -1,6 +1,7 @@
-elpd_loo = -298.967369
-p_loo = 5.192524
-loo_se = 7.650664
-elpd_waic = -298.909493
-p_waic = 5.134648
-waic_se = 7.645167
+elpd_loo = -327.883630
+p_loo = 4.428442
+loo_se = 7.265836
+elpd_waic = -327.848748
+p_waic = 4.393560
+waic_se = 7.262140
+rms = 4.787505

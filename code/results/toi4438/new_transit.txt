@@ -1,0 +1,5 @@
+ror: 0.045
+r_pl: 1.781 Earth radii
+depth: 2.057 ppt
+duration: 2.208 h
+time of transit: 3471.5591 BJD-2,457,000

@@ -1,0 +1,4 @@
+# this is from De Almeida with SPIRou spectral analysis
+star,teff,teff_err,logg,logg_err,M/H,M/H_err,alpha,alpha_err,vmic,vmic_err,L,L_err,R,R_err,M,M_err
+TOI-442,4123.30,43.68,4.60,0.08,0.05,0.1,0.13,0.1,1.05,0.34,0.075,0.001,0.536,0.012,0.542,0.001
+TOI-4438,3501,70.01,4.67,0.11,0.07,0.1,-0.08,0.08,2.35,0.42,0.01706,0.00007,0.355,0.014,0.350,0.018
